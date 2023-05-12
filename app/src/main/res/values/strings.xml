@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Johnnys Coffee Shop</string>
+    <string name="login_btn_txt">login_btn_txt</string>
+    <string name="sign_btn_txt">sign_btn_txt</string>
+    <string name="johnny_s_coffee_app">Johnny\'s Coffee App</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="sign_up_btn">Sign up</string>
+    <string name="johnny_s_coffee_shop">Johnny\'s Coffee Shop</string>
+    <string name="enter_username_to_login">Enter Username to Login</string>
+    <string name="enter_password_to_login">Enter password to login</string>
+</resources>
